@@ -1,11 +1,11 @@
 # kVadrum
 
-Dev lab. Systems, prototyping, and shipping software at the edge of what's possible.
+BUILD MODE. Systems, prototyping, and crafting software at the bleeding edge.
 
-Currently exploring agentic AI workflows, full-stack product development, and crypto infrastructure — building in public when it's ready, iterating in private until it is.
+Currently exploring agentic AI workflows, full-stack product development, and crypto infrastructure.
 
 Part of [KeMeK Network](https://kemek.com).
 
 ---
 
-*More here soon.*
+*More here soon, thank you for your interest.*
